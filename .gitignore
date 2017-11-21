@@ -1,0 +1,30 @@
+##############################
+# Unity folders & files
+**/Library/
+**/obj/
+**/Temp/
+
+
+##############################
+# Source Files
+
+*.psd
+*.max
+
+##############################
+# Package files
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
+ 
+######################
+# Logs and databases
+*.log
+.DS_Store*
+Thumbs.db
+
+
+
+출처: http://ongamedev.tistory.com/entry/Unity에서-SourceTree로-프로젝트-관리하기-3-gitignore-적용하기?category=592775 [가끔 보자, 하늘.]
