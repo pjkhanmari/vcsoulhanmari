@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kproject", "kproject.csproj", "{2822EA4B-1784-A61F-58B7-2BA16C810FA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kproject.Plugins", "kproject.Plugins.csproj", "{948E0441-A1DA-3F70-545A-2BEDD4E96654}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kproject.Editor", "kproject.Editor.csproj", "{38C1AD2B-D230-BA79-6A3C-2A1D8D25FA9C}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{2822EA4B-1784-A61F-58B7-2BA16C810FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2822EA4B-1784-A61F-58B7-2BA16C810FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2822EA4B-1784-A61F-58B7-2BA16C810FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948E0441-A1DA-3F70-545A-2BEDD4E96654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948E0441-A1DA-3F70-545A-2BEDD4E96654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948E0441-A1DA-3F70-545A-2BEDD4E96654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948E0441-A1DA-3F70-545A-2BEDD4E96654}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38C1AD2B-D230-BA79-6A3C-2A1D8D25FA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38C1AD2B-D230-BA79-6A3C-2A1D8D25FA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C1AD2B-D230-BA79-6A3C-2A1D8D25FA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU

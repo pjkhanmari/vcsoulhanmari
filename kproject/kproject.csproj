@@ -228,6 +228,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="kproject.Plugins.csproj">
+      <Project>{948E0441-A1DA-3F70-545A-2BEDD4E96654}</Project>
+      <Name>kproject.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Assets\Best HTTP (Pro)\BestHTTP\Authentication\Credentials.cs" />
     <Compile Include="Assets\Best HTTP (Pro)\BestHTTP\Authentication\Digest.cs" />
     <Compile Include="Assets\Best HTTP (Pro)\BestHTTP\Authentication\DigestStore.cs" />
@@ -1235,6 +1241,7 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
