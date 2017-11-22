@@ -1188,6 +1188,9 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
     <Compile Include="Assets\Script\test.cs" />
+    <Compile Include="Assets\Warrior Pack Bundle 3 FREE\Code\IKHands.cs" />
+    <Compile Include="Assets\Warrior Pack Bundle 3 FREE\Code\SmoothFollow.cs" />
+    <Compile Include="Assets\Warrior Pack Bundle 3 FREE\Code\WarriorAnimationDemoFREE.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Best HTTP (Pro)\ReleaseNotes.txt" />
