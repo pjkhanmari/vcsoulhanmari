@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System.IO;
 using UnityEngine;
 using UnityEditor;
 
 namespace CloudBread.OAuth
 {
-	public class OAuth2Setting : ScriptableObject
+    public class OAuth2Setting : ScriptableObject
 	{
 		private const string SettingAssetName = "CBOAuth2Setting";
 		private const string SettingsPath = "CloudBread/Resources";

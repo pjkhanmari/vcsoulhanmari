@@ -147,7 +147,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.pjk.test
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -601,7 +602,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     UNet: 1
-  facebookSdkVersion: 7.9.4
+  facebookSdkVersion: plugin
   apiCompatibilityLevel: 2
   cloudProjectId: 56ce97b3-3835-4e47-8608-676902926b50
   projectName: kproject
